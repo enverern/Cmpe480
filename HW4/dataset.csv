@@ -1,0 +1,530 @@
+gender,international,gpa,major,gmat,work_exp,work_industry,admission
+M,False,low,Business,low,low,Consulting,Deny
+M,False,high,STEM,low,medium,Consulting,Deny
+F,False,medium,STEM,low,low,Consulting,Deny
+M,False,low,Humanities,low,medium,Consulting,Deny
+M,False,low,Humanities,low,medium,Nonprofit/Gov,Deny
+M,False,medium,Business,low,low,Consulting,Deny
+F,False,high,Business,very high,medium,Investment Banking,Admit
+F,False,medium,STEM,medium,high,Investment Banking,Deny
+M,False,low,Business,low,low,Consulting,Deny
+F,False,high,STEM,very high,high,Consulting,Deny
+M,False,medium,STEM,high,low,Consulting,Deny
+F,False,high,Business,medium,low,Consulting,Deny
+F,False,medium,Humanities,low,low,Technology,Deny
+F,False,medium,Business,low,very high,Technology,Deny
+M,False,very high,STEM,high,very high,PE/VC,Deny
+M,False,medium,Business,low,low,Technology,Deny
+M,False,medium,Humanities,medium,high,Health Care,Deny
+F,False,very high,Humanities,high,low,Health Care,Deny
+M,False,low,Business,low,medium,Consulting,Deny
+F,False,medium,Business,very high,medium,Consulting,Deny
+M,False,low,Humanities,high,medium,PE/VC,Deny
+F,False,low,STEM,low,very high,PE/VC,Deny
+F,False,medium,Business,high,high,Investment Banking,Deny
+M,True,medium,Business,medium,high,Consulting,Deny
+F,True,high,Humanities,very high,low,Other,Deny
+M,False,high,STEM,medium,low,PE/VC,Deny
+F,False,very high,Humanities,very high,medium,Consulting,Deny
+F,True,very high,Humanities,medium,medium,Technology,Deny
+F,False,very high,Business,very high,medium,Investment Banking,Deny
+M,False,low,Humanities,medium,very high,Investment Banking,Deny
+F,False,high,STEM,very high,high,Other,Deny
+M,False,low,Humanities,low,high,Financial Services,Deny
+M,False,very high,Business,low,medium,Investment Banking,Deny
+M,True,medium,STEM,medium,high,Other,Deny
+M,False,low,STEM,medium,low,Retail,Deny
+M,True,very high,Business,very high,low,Technology,Admit
+M,True,medium,Humanities,medium,high,Consulting,Deny
+M,False,high,Business,low,low,Consulting,Deny
+M,False,medium,Humanities,medium,high,Technology,Deny
+M,True,low,Humanities,medium,medium,Consulting,Deny
+M,False,high,STEM,high,low,Health Care,Deny
+F,False,very high,Business,very high,medium,Consulting,Deny
+F,True,very high,Humanities,medium,medium,Technology,Deny
+F,False,low,Humanities,medium,medium,PE/VC,Deny
+M,False,low,Humanities,low,very high,Consulting,Deny
+M,False,high,STEM,low,high,Investment Banking,Deny
+M,False,very high,Humanities,very high,medium,PE/VC,Deny
+M,True,medium,STEM,high,medium,Investment Banking,Admit
+M,False,low,Business,low,medium,PE/VC,Deny
+F,False,high,STEM,medium,high,Investment Banking,Deny
+M,False,high,Business,medium,medium,PE/VC,Deny
+M,False,medium,STEM,medium,high,PE/VC,Deny
+M,True,high,Humanities,low,high,PE/VC,Deny
+M,False,very high,Business,very high,high,Consulting,Waitlist
+M,False,medium,Business,high,low,Consulting,Deny
+M,False,medium,Humanities,medium,low,Other,Deny
+M,True,high,Humanities,medium,medium,Technology,Deny
+M,False,very high,STEM,very high,medium,PE/VC,Deny
+F,True,low,Business,low,medium,Health Care,Deny
+F,True,low,Humanities,low,low,Financial Services,Deny
+F,False,low,Business,medium,medium,Energy,Deny
+F,True,very high,STEM,medium,low,Consulting,Deny
+M,False,low,STEM,high,medium,Energy,Deny
+F,False,high,Humanities,low,low,Technology,Deny
+F,True,high,Humanities,low,low,Health Care,Deny
+F,True,low,Business,low,medium,Investment Banking,Deny
+M,False,high,Humanities,very high,medium,Financial Services,Deny
+M,False,high,Humanities,high,medium,PE/VC,Deny
+M,False,medium,STEM,high,medium,PE/VC,Deny
+M,False,low,STEM,low,high,Financial Services,Deny
+F,False,low,Business,medium,high,Nonprofit/Gov,Deny
+F,True,high,STEM,medium,low,Investment Banking,Deny
+M,False,very high,Humanities,medium,low,Technology,Deny
+M,True,low,Humanities,low,medium,Consulting,Deny
+M,False,low,STEM,low,low,PE/VC,Deny
+F,False,very high,Business,medium,high,PE/VC,Deny
+M,False,high,STEM,very high,medium,Technology,Admit
+M,False,very high,Humanities,high,high,Consulting,Admit
+M,False,high,STEM,medium,high,Other,Deny
+F,False,medium,Humanities,low,medium,PE/VC,Deny
+M,True,low,Humanities,low,high,Nonprofit/Gov,Deny
+F,False,high,STEM,medium,low,CPG,Deny
+M,True,high,Humanities,high,low,Consulting,Deny
+F,False,very high,STEM,medium,high,Consulting,Deny
+M,False,medium,STEM,medium,medium,Health Care,Deny
+M,True,very high,Humanities,medium,low,Nonprofit/Gov,Deny
+M,False,high,Business,high,high,Technology,Admit
+F,False,low,Business,low,low,Consulting,Deny
+M,False,very high,STEM,medium,high,Consulting,Deny
+M,False,high,Humanities,medium,high,Investment Banking,Deny
+F,False,very high,Business,very high,very high,Retail,Deny
+F,False,low,STEM,medium,medium,Nonprofit/Gov,Deny
+M,False,very high,STEM,very high,medium,Investment Management,Admit
+M,True,high,Humanities,high,medium,PE/VC,Deny
+M,False,high,Humanities,medium,low,PE/VC,Deny
+M,False,high,STEM,low,medium,Other,Deny
+M,True,low,Humanities,low,low,PE/VC,Deny
+F,False,high,Business,medium,low,Technology,Deny
+M,False,medium,Business,very high,high,Financial Services,Deny
+M,False,very high,Humanities,very high,very high,Consulting,Deny
+F,True,high,Business,medium,very high,Health Care,Deny
+F,False,low,Business,high,medium,PE/VC,Deny
+M,False,high,STEM,very high,medium,PE/VC,Deny
+F,False,low,Business,very high,medium,Nonprofit/Gov,Deny
+M,False,medium,Business,medium,medium,Technology,Deny
+F,False,medium,STEM,low,high,PE/VC,Deny
+F,True,very high,Business,low,medium,Consulting,Deny
+M,False,low,Business,low,low,Consulting,Deny
+F,True,medium,Business,low,medium,Consulting,Deny
+F,False,medium,Humanities,low,medium,Other,Deny
+M,False,low,Humanities,low,low,Consulting,Deny
+F,False,high,Business,very high,medium,Consulting,Admit
+M,False,medium,STEM,high,medium,Consulting,Deny
+F,False,low,Business,very high,low,Consulting,Deny
+M,False,medium,Business,very high,high,Investment Management,Deny
+F,False,medium,Humanities,medium,medium,Consulting,Deny
+M,False,very high,STEM,high,medium,Technology,Deny
+M,True,high,STEM,medium,high,Investment Management,Deny
+M,True,medium,STEM,medium,medium,Financial Services,Deny
+M,False,very high,Humanities,very high,low,Financial Services,Deny
+F,False,medium,Business,low,very high,Technology,Deny
+M,True,low,STEM,low,medium,Consulting,Deny
+F,False,medium,Humanities,medium,low,Financial Services,Deny
+F,True,low,STEM,low,medium,PE/VC,Deny
+M,True,medium,Business,medium,very high,Investment Banking,Deny
+F,False,low,Business,medium,medium,PE/VC,Deny
+M,False,medium,STEM,very high,low,Consulting,Deny
+M,False,medium,Business,medium,low,Financial Services,Deny
+F,True,very high,Business,medium,low,Consulting,Deny
+M,False,high,Humanities,medium,high,Consulting,Deny
+M,True,medium,Humanities,medium,medium,Consulting,Deny
+M,True,very high,STEM,high,low,Consulting,Deny
+M,False,low,Humanities,very high,low,Health Care,Deny
+F,False,low,Business,low,low,PE/VC,Deny
+M,False,low,STEM,medium,low,Technology,Deny
+M,False,medium,STEM,medium,medium,Investment Management,Deny
+F,True,high,Humanities,very high,medium,Other,Deny
+M,False,low,Business,low,medium,Health Care,Deny
+M,False,medium,Humanities,low,low,PE/VC,Deny
+M,True,high,Business,very high,low,Nonprofit/Gov,Deny
+M,True,low,Business,medium,medium,Technology,Deny
+F,True,medium,STEM,medium,low,Consulting,Deny
+M,False,medium,Humanities,low,medium,Financial Services,Deny
+F,False,high,STEM,very high,low,Media/Entertainment,Admit
+M,False,high,STEM,medium,very high,Financial Services,Deny
+M,False,high,STEM,high,very high,Nonprofit/Gov,Admit
+F,False,medium,Humanities,medium,medium,Consulting,Deny
+F,False,medium,STEM,low,medium,PE/VC,Deny
+F,False,low,Humanities,high,low,Consulting,Deny
+M,False,medium,STEM,medium,low,PE/VC,Deny
+F,False,medium,Business,very high,high,Technology,Deny
+F,False,low,Humanities,high,high,Consulting,Deny
+M,True,low,Humanities,very high,low,Health Care,Deny
+M,True,high,Humanities,high,medium,Technology,Deny
+M,True,low,Business,low,medium,Financial Services,Deny
+F,False,very high,Business,medium,high,Other,Waitlist
+F,False,low,Humanities,high,medium,Technology,Deny
+M,True,high,Humanities,high,medium,PE/VC,Deny
+M,False,medium,STEM,medium,low,Nonprofit/Gov,Deny
+F,False,low,Business,medium,low,Consulting,Deny
+F,True,low,Business,medium,very high,Consulting,Deny
+M,False,medium,Humanities,high,medium,Consulting,Deny
+F,False,very high,STEM,high,medium,Investment Management,Deny
+M,True,medium,Business,low,low,PE/VC,Deny
+F,False,low,STEM,low,medium,Other,Deny
+M,True,medium,Humanities,medium,high,PE/VC,Deny
+M,False,low,STEM,low,medium,Technology,Deny
+M,False,very high,STEM,high,low,Nonprofit/Gov,Deny
+M,False,medium,Business,low,very high,Consulting,Deny
+F,False,medium,Humanities,medium,medium,Other,Deny
+M,True,very high,Business,very high,medium,Consulting,Deny
+F,False,high,STEM,medium,high,Financial Services,Deny
+M,False,medium,STEM,high,medium,Financial Services,Deny
+M,False,very high,Humanities,high,medium,Financial Services,Admit
+F,False,low,Humanities,medium,low,Technology,Deny
+F,True,medium,Humanities,very high,low,Consulting,Admit
+F,False,low,Business,medium,high,Real Estate,Admit
+M,False,very high,Business,very high,medium,PE/VC,Admit
+M,True,medium,STEM,low,low,Investment Banking,Deny
+M,False,low,Humanities,high,very high,PE/VC,Deny
+M,False,high,Business,low,very high,Consulting,Deny
+F,False,very high,Business,high,low,Technology,Deny
+M,False,high,Business,very high,low,Technology,Deny
+F,False,medium,Business,low,medium,Investment Banking,Deny
+M,False,medium,Humanities,very high,low,Real Estate,Admit
+F,False,medium,STEM,low,medium,Nonprofit/Gov,Admit
+F,True,medium,Humanities,very high,high,Other,Admit
+F,False,low,Humanities,high,low,Other,Deny
+M,False,high,Humanities,medium,high,Real Estate,Deny
+M,False,very high,Humanities,very high,high,Health Care,Deny
+M,False,high,Humanities,medium,medium,Health Care,Deny
+M,False,very high,Humanities,very high,low,PE/VC,Deny
+F,False,very high,Business,medium,low,Other,Deny
+M,False,high,Business,medium,medium,Technology,Deny
+M,False,high,Humanities,very high,medium,Investment Management,Admit
+F,True,high,Humanities,low,low,Consulting,Deny
+M,False,low,Business,medium,low,Nonprofit/Gov,Deny
+M,False,medium,Business,high,medium,Energy,Deny
+M,False,low,STEM,low,high,Technology,Deny
+F,False,high,STEM,high,low,Retail,Deny
+M,True,very high,STEM,high,high,Other,Deny
+F,True,high,Humanities,high,high,Consulting,Deny
+F,False,high,Humanities,medium,low,Other,Deny
+M,True,low,Business,medium,medium,Financial Services,Deny
+M,False,medium,Business,high,low,Financial Services,Deny
+F,False,low,Humanities,medium,medium,Technology,Deny
+M,False,low,Humanities,high,medium,Investment Banking,Deny
+M,False,medium,Business,medium,low,PE/VC,Deny
+M,False,medium,STEM,medium,low,Technology,Deny
+M,False,very high,Humanities,very high,low,Consulting,Admit
+F,False,high,STEM,high,medium,Nonprofit/Gov,Deny
+F,False,medium,STEM,medium,high,PE/VC,Deny
+M,False,low,Humanities,low,medium,Financial Services,Deny
+F,False,high,Humanities,low,medium,PE/VC,Deny
+M,True,medium,Business,medium,low,Investment Banking,Deny
+M,False,medium,Business,high,medium,Health Care,Deny
+M,True,low,Humanities,low,very high,Technology,Deny
+F,True,high,Business,very high,medium,Consulting,Deny
+M,False,medium,Humanities,low,high,Real Estate,Deny
+F,False,medium,Business,medium,high,Investment Banking,Deny
+M,False,medium,Humanities,high,low,Other,Deny
+M,True,medium,STEM,medium,medium,PE/VC,Deny
+F,False,low,STEM,medium,medium,PE/VC,Deny
+M,False,medium,STEM,medium,medium,Nonprofit/Gov,Deny
+F,False,low,Business,low,medium,Consulting,Deny
+F,True,high,STEM,very high,low,Health Care,Deny
+M,False,medium,Humanities,low,low,Nonprofit/Gov,Deny
+M,False,low,STEM,very high,medium,Health Care,Deny
+F,True,medium,Humanities,medium,low,PE/VC,Deny
+F,False,high,STEM,high,medium,Financial Services,Deny
+M,False,very high,STEM,low,medium,PE/VC,Deny
+F,False,very high,STEM,high,high,PE/VC,Deny
+M,False,very high,Business,very high,medium,Health Care,Deny
+M,False,very high,Humanities,very high,high,Consulting,Admit
+F,False,very high,STEM,very high,low,Health Care,Deny
+M,False,low,Business,low,high,Technology,Deny
+F,True,low,Humanities,low,high,CPG,Deny
+F,False,low,Humanities,low,medium,Nonprofit/Gov,Deny
+F,False,medium,Business,low,low,Financial Services,Deny
+M,True,very high,Humanities,very high,medium,Nonprofit/Gov,Deny
+M,True,very high,Humanities,very high,low,Nonprofit/Gov,Deny
+M,False,very high,STEM,low,low,Nonprofit/Gov,Deny
+M,True,high,STEM,high,medium,Technology,Deny
+M,False,medium,STEM,low,low,Other,Deny
+M,False,very high,Business,very high,high,CPG,Admit
+M,True,medium,Humanities,very high,low,Investment Banking,Deny
+M,False,medium,STEM,medium,low,Consulting,Deny
+M,False,high,STEM,low,medium,Financial Services,Deny
+F,False,high,STEM,medium,low,Financial Services,Deny
+M,False,low,STEM,medium,medium,Consulting,Deny
+M,False,very high,Humanities,very high,low,Financial Services,Deny
+F,False,very high,Business,very high,medium,Consulting,Deny
+F,True,low,STEM,medium,medium,Investment Banking,Admit
+M,False,high,STEM,medium,medium,Nonprofit/Gov,Deny
+M,False,low,Humanities,medium,medium,Financial Services,Deny
+F,False,medium,Humanities,very high,high,CPG,Deny
+F,True,very high,STEM,low,low,Investment Banking,Deny
+M,True,low,Business,low,medium,Health Care,Deny
+M,True,low,STEM,high,low,Investment Banking,Deny
+F,True,high,STEM,high,low,Technology,Deny
+M,False,low,Humanities,low,medium,Financial Services,Deny
+F,False,low,Business,low,low,Consulting,Deny
+M,False,medium,Business,very high,very high,Investment Banking,Admit
+M,True,high,Humanities,low,medium,Nonprofit/Gov,Deny
+F,False,low,Business,medium,medium,Consulting,Deny
+F,False,very high,Business,very high,medium,Technology,Admit
+M,True,high,Business,high,low,Technology,Deny
+F,True,low,Humanities,low,low,Consulting,Waitlist
+M,False,high,STEM,low,medium,Nonprofit/Gov,Deny
+M,False,very high,Humanities,high,very high,Technology,Deny
+M,True,very high,Humanities,high,medium,Consulting,Deny
+M,True,low,STEM,low,low,PE/VC,Deny
+F,False,very high,Business,very high,low,Real Estate,Deny
+M,False,medium,Business,medium,low,PE/VC,Deny
+M,True,very high,Business,very high,medium,Consulting,Deny
+M,False,very high,Humanities,very high,medium,Health Care,Deny
+F,False,high,Business,medium,medium,Technology,Deny
+M,False,low,STEM,low,medium,Consulting,Deny
+M,False,medium,Business,low,medium,Nonprofit/Gov,Deny
+F,False,very high,Business,low,low,Consulting,Deny
+M,False,medium,Humanities,medium,low,Consulting,Deny
+F,False,high,Business,high,medium,Nonprofit/Gov,Admit
+F,False,very high,STEM,very high,high,Consulting,Admit
+M,False,medium,Humanities,low,low,PE/VC,Deny
+M,True,medium,Humanities,high,high,Consulting,Admit
+F,False,low,Humanities,high,low,Real Estate,Deny
+M,True,low,Business,medium,low,CPG,Deny
+M,False,very high,STEM,high,low,Investment Banking,Deny
+M,True,medium,STEM,medium,low,Investment Banking,Deny
+M,False,low,Business,medium,low,Consulting,Deny
+M,True,low,Humanities,medium,high,Financial Services,Deny
+M,True,low,STEM,high,medium,PE/VC,Deny
+M,False,high,STEM,very high,high,PE/VC,Deny
+F,True,high,Humanities,low,medium,Investment Banking,Deny
+M,False,medium,STEM,medium,medium,Technology,Deny
+M,False,very high,Business,high,high,PE/VC,Deny
+M,False,low,Business,low,high,Consulting,Deny
+M,False,low,STEM,low,medium,Consulting,Deny
+M,False,very high,Humanities,high,very high,Other,Deny
+M,True,very high,STEM,very high,medium,Other,Deny
+M,False,low,Humanities,low,low,Investment Banking,Deny
+M,True,high,Humanities,medium,medium,Consulting,Deny
+F,False,very high,Business,low,medium,Investment Management,Deny
+F,False,high,Humanities,very high,medium,Technology,Admit
+M,True,very high,Humanities,very high,medium,Technology,Admit
+M,True,low,Humanities,low,high,Financial Services,Deny
+F,False,medium,Business,very high,low,Consulting,Deny
+M,True,high,Humanities,medium,medium,Investment Management,Deny
+M,False,low,Humanities,medium,medium,Investment Banking,Deny
+M,False,medium,Humanities,very high,high,Consulting,Admit
+M,True,low,Business,medium,medium,Technology,Deny
+M,False,very high,Humanities,very high,medium,Health Care,Deny
+F,False,high,Business,medium,high,Financial Services,Deny
+F,True,very high,Business,medium,low,Consulting,Deny
+M,True,high,Humanities,low,high,Technology,Deny
+M,True,high,Business,high,low,Nonprofit/Gov,Deny
+F,True,medium,STEM,low,medium,Consulting,Deny
+M,False,medium,STEM,high,very high,Consulting,Deny
+M,True,high,STEM,very high,medium,Nonprofit/Gov,Admit
+F,False,low,Humanities,medium,very high,Nonprofit/Gov,Deny
+F,False,very high,STEM,high,medium,Consulting,Admit
+M,False,very high,Business,very high,medium,Nonprofit/Gov,Admit
+M,True,very high,Business,very high,low,PE/VC,Admit
+M,False,medium,Humanities,medium,medium,Energy,Deny
+M,False,low,Business,low,medium,Investment Management,Deny
+M,False,low,Business,low,very high,Financial Services,Deny
+M,False,medium,Humanities,medium,high,Health Care,Deny
+F,False,low,Humanities,medium,medium,Investment Banking,Deny
+M,False,medium,Humanities,medium,medium,Consulting,Deny
+M,False,high,Humanities,high,high,Media/Entertainment,Waitlist
+M,False,medium,Humanities,very high,medium,PE/VC,Deny
+M,True,very high,Business,medium,high,Media/Entertainment,Deny
+F,True,low,Business,high,low,Other,Deny
+F,False,very high,Business,very high,medium,Technology,Admit
+F,True,low,Humanities,low,medium,Technology,Deny
+M,False,medium,Business,high,low,Consulting,Deny
+F,False,high,STEM,low,medium,Media/Entertainment,Deny
+M,False,medium,Business,medium,medium,PE/VC,Deny
+M,False,high,STEM,very high,medium,PE/VC,Deny
+M,False,high,Humanities,medium,medium,CPG,Deny
+F,False,medium,Business,medium,low,Investment Banking,Deny
+M,False,very high,Business,medium,medium,Other,Deny
+F,False,very high,Business,medium,low,Media/Entertainment,Deny
+M,False,medium,STEM,low,medium,Health Care,Deny
+F,True,low,STEM,low,medium,Financial Services,Deny
+M,True,low,Business,low,very high,Financial Services,Deny
+M,False,high,STEM,high,low,CPG,Deny
+F,True,very high,STEM,very high,medium,Other,Admit
+F,False,medium,Business,medium,high,Media/Entertainment,Deny
+F,True,low,Humanities,medium,medium,Investment Banking,Deny
+M,False,low,STEM,low,medium,Financial Services,Deny
+F,True,very high,Business,very high,low,Nonprofit/Gov,Admit
+F,True,medium,Business,low,low,Real Estate,Deny
+F,True,high,Humanities,high,medium,Real Estate,Deny
+M,True,very high,STEM,medium,high,Consulting,Deny
+F,True,very high,Business,very high,low,PE/VC,Deny
+M,False,medium,STEM,high,high,Consulting,Deny
+M,False,medium,Humanities,medium,high,Investment Banking,Deny
+M,True,low,Business,low,high,PE/VC,Deny
+M,True,low,STEM,low,medium,PE/VC,Deny
+M,False,high,Humanities,low,medium,Media/Entertainment,Deny
+M,False,medium,Business,medium,low,Consulting,Deny
+M,False,low,Business,low,low,PE/VC,Deny
+M,True,very high,STEM,very high,high,Consulting,Deny
+M,False,medium,STEM,medium,low,Consulting,Deny
+M,False,medium,STEM,medium,medium,PE/VC,Deny
+M,True,low,STEM,low,medium,Consulting,Deny
+M,False,very high,Humanities,medium,low,Technology,Deny
+F,False,very high,Business,very high,high,Consulting,Deny
+F,False,medium,Humanities,high,high,Consulting,Admit
+F,True,very high,Humanities,high,low,Consulting,Deny
+M,False,medium,STEM,low,low,Media/Entertainment,Deny
+M,False,medium,Humanities,medium,low,Financial Services,Deny
+F,False,very high,Humanities,medium,low,Nonprofit/Gov,Deny
+M,False,high,Humanities,very high,very high,Nonprofit/Gov,Deny
+M,True,low,Business,medium,low,Other,Deny
+M,False,very high,STEM,very high,low,Consulting,Admit
+F,False,very high,STEM,very high,high,CPG,Admit
+F,True,low,Humanities,high,high,Investment Banking,Deny
+M,True,very high,Humanities,high,very high,Nonprofit/Gov,Deny
+M,False,low,STEM,low,low,PE/VC,Deny
+F,False,low,STEM,low,high,PE/VC,Deny
+M,False,low,Business,low,high,PE/VC,Deny
+M,False,very high,Humanities,high,medium,Consulting,Deny
+F,False,high,Humanities,very high,high,Consulting,Admit
+F,False,medium,STEM,high,medium,Technology,Admit
+M,True,medium,Humanities,medium,medium,Technology,Deny
+M,False,medium,STEM,high,very high,Nonprofit/Gov,Deny
+M,False,very high,Humanities,very high,very high,Investment Banking,Deny
+M,False,high,Humanities,very high,high,Technology,Admit
+M,False,high,STEM,high,high,Consulting,Deny
+M,True,high,Business,high,high,PE/VC,Deny
+M,False,low,Business,medium,low,Other,Deny
+F,True,medium,Business,very high,medium,Investment Banking,Deny
+M,True,medium,Humanities,very high,high,Health Care,Deny
+F,False,very high,Business,very high,medium,Nonprofit/Gov,Deny
+F,False,medium,STEM,low,medium,Consulting,Deny
+F,False,low,STEM,low,medium,Other,Admit
+F,True,high,STEM,high,medium,Consulting,Deny
+M,True,very high,STEM,very high,high,PE/VC,Admit
+M,True,high,Business,medium,low,Consulting,Deny
+M,True,medium,Business,high,low,PE/VC,Deny
+F,False,medium,Business,low,medium,Technology,Deny
+F,True,very high,Business,high,medium,Investment Management,Admit
+F,True,medium,STEM,medium,low,Technology,Deny
+F,False,medium,STEM,medium,high,Technology,Deny
+M,True,medium,Humanities,high,medium,Health Care,Deny
+M,False,high,Humanities,medium,medium,Nonprofit/Gov,Deny
+M,False,high,STEM,very high,high,Investment Management,Admit
+M,True,high,Humanities,very high,high,Consulting,Deny
+F,False,very high,Business,medium,low,Consulting,Deny
+F,False,very high,Humanities,very high,low,Consulting,Admit
+M,True,medium,Humanities,low,high,PE/VC,Deny
+F,False,medium,Business,high,low,Financial Services,Deny
+F,False,high,STEM,very high,high,Retail,Admit
+M,False,high,Humanities,medium,high,Technology,Deny
+M,True,very high,Humanities,very high,medium,PE/VC,Admit
+M,False,very high,Business,very high,medium,Consulting,Deny
+M,False,high,STEM,medium,low,Consulting,Deny
+M,True,high,Business,high,low,Financial Services,Waitlist
+M,False,medium,Business,low,medium,Other,Deny
+M,False,low,Humanities,low,high,PE/VC,Deny
+F,False,low,Business,low,medium,Consulting,Deny
+M,False,high,Humanities,low,high,Consulting,Deny
+M,False,low,Humanities,low,medium,PE/VC,Deny
+F,True,low,STEM,high,medium,Investment Management,Deny
+F,False,high,STEM,low,low,Consulting,Deny
+M,False,very high,STEM,medium,low,Energy,Deny
+M,False,medium,Humanities,high,medium,Technology,Deny
+F,False,high,Business,medium,very high,Consulting,Deny
+F,False,medium,Business,low,high,Consulting,Deny
+F,False,medium,Business,high,low,Investment Banking,Deny
+M,True,high,Humanities,medium,medium,Consulting,Deny
+M,True,medium,Business,medium,medium,Financial Services,Deny
+M,False,very high,Humanities,very high,high,Investment Banking,Deny
+M,False,low,Humanities,low,low,Investment Management,Deny
+F,False,very high,STEM,low,medium,PE/VC,Deny
+F,False,very high,Business,low,high,Financial Services,Deny
+F,False,medium,Business,high,medium,Consulting,Deny
+M,True,very high,Humanities,medium,high,Other,Deny
+M,False,high,Humanities,high,high,PE/VC,Admit
+M,False,low,STEM,medium,high,Technology,Deny
+M,True,medium,STEM,medium,medium,Investment Banking,Deny
+F,False,medium,Humanities,medium,medium,Nonprofit/Gov,Deny
+F,False,very high,STEM,high,low,Consulting,Deny
+M,True,medium,Humanities,medium,high,Consulting,Deny
+M,False,very high,Humanities,high,medium,Consulting,Deny
+F,True,medium,Humanities,medium,medium,CPG,Deny
+M,True,very high,Business,medium,medium,Real Estate,Deny
+F,False,medium,Humanities,very high,medium,Retail,Deny
+M,False,medium,Business,medium,low,Consulting,Deny
+M,False,high,STEM,medium,very high,Investment Banking,Deny
+M,True,very high,Business,high,high,Consulting,Deny
+F,True,very high,Business,medium,medium,PE/VC,Deny
+M,False,high,Business,very high,low,Investment Banking,Deny
+F,True,medium,STEM,low,low,PE/VC,Deny
+F,True,high,STEM,low,medium,Retail,Deny
+F,False,high,Humanities,very high,medium,Technology,Deny
+M,True,very high,STEM,medium,medium,Consulting,Deny
+M,True,high,Business,very high,medium,Consulting,Deny
+F,True,very high,Humanities,very high,high,Consulting,Deny
+F,False,medium,Humanities,medium,medium,Nonprofit/Gov,Deny
+M,True,very high,STEM,high,very high,Consulting,Deny
+F,False,low,Business,medium,medium,Consulting,Deny
+F,True,low,Humanities,low,low,Investment Management,Deny
+M,False,medium,STEM,high,medium,Technology,Admit
+F,False,very high,Humanities,very high,medium,Technology,Deny
+M,False,very high,Humanities,medium,high,Consulting,Deny
+M,False,very high,Humanities,very high,medium,PE/VC,Admit
+M,False,medium,Business,high,high,Investment Management,Deny
+M,False,high,Humanities,low,medium,Technology,Deny
+M,False,medium,Humanities,medium,medium,Technology,Deny
+M,False,medium,Humanities,low,low,Financial Services,Deny
+F,False,high,Humanities,medium,low,Technology,Deny
+M,False,low,Humanities,low,low,Investment Banking,Deny
+M,True,medium,Business,medium,low,Technology,Deny
+F,False,low,STEM,low,medium,Technology,Deny
+M,False,very high,Business,medium,high,Consulting,Deny
+F,False,low,Humanities,medium,medium,Health Care,Deny
+M,True,low,STEM,high,medium,Technology,Deny
+M,True,high,STEM,low,high,Nonprofit/Gov,Deny
+M,False,very high,Business,medium,very high,Consulting,Deny
+F,False,medium,STEM,medium,high,PE/VC,Deny
+F,False,very high,STEM,very high,low,Health Care,Admit
+M,False,medium,STEM,medium,medium,Technology,Deny
+M,True,medium,STEM,medium,medium,Health Care,Deny
+M,True,high,Humanities,medium,low,Consulting,Deny
+M,True,low,Humanities,low,high,PE/VC,Deny
+F,True,high,Humanities,medium,low,PE/VC,Deny
+F,False,high,Humanities,very high,medium,Investment Banking,Admit
+M,False,high,STEM,high,medium,Consulting,Deny
+M,False,low,Business,high,low,Health Care,Deny
+F,False,medium,STEM,low,low,Consulting,Deny
+M,False,very high,Humanities,very high,low,PE/VC,Admit
+M,False,medium,Humanities,low,medium,Other,Deny
+M,False,low,Humanities,medium,high,Other,Deny
+F,True,high,STEM,very high,high,PE/VC,Deny
+M,False,very high,Humanities,very high,low,Media/Entertainment,Deny
+M,False,low,Business,medium,low,Investment Banking,Deny
+M,True,medium,Humanities,low,low,Consulting,Deny
+M,True,high,STEM,low,high,PE/VC,Deny
+M,False,very high,Humanities,very high,medium,Consulting,Admit
+F,False,medium,Business,very high,high,Consulting,Deny
+M,True,high,Business,high,medium,Health Care,Deny
+M,False,medium,Business,medium,medium,Financial Services,Deny
+M,False,high,Humanities,low,medium,Consulting,Deny
+M,False,high,Humanities,very high,low,Consulting,Admit
+M,False,medium,Humanities,low,high,Consulting,Deny
+M,False,high,Humanities,medium,medium,Investment Management,Deny
+M,False,low,STEM,low,high,Financial Services,Deny
+M,True,medium,Business,low,medium,Consulting,Deny
+M,False,high,Business,high,low,Nonprofit/Gov,Deny
+M,True,low,Humanities,low,medium,Consulting,Deny
+M,True,very high,Business,medium,medium,PE/VC,Deny
+M,False,very high,STEM,low,high,Consulting,Deny
+M,False,very high,Humanities,very high,medium,Nonprofit/Gov,Admit
+M,True,low,STEM,low,medium,PE/VC,Deny
+M,False,medium,Business,medium,high,Financial Services,Deny
+F,False,low,Business,high,low,Other,Deny
+M,True,medium,STEM,high,low,Technology,Deny
+M,False,high,STEM,medium,medium,Technology,Deny
+F,False,high,Humanities,medium,medium,Media/Entertainment,Deny
+M,True,very high,STEM,very high,low,Other,Deny
+M,False,very high,Humanities,high,medium,Consulting,Deny
+M,False,high,Humanities,very high,low,Other,Deny
+M,False,low,Business,low,medium,Real Estate,Deny
+F,False,low,Business,low,low,Consulting,Deny
+M,False,low,Humanities,high,medium,Consulting,Deny
+F,False,high,Humanities,very high,medium,Nonprofit/Gov,Admit
